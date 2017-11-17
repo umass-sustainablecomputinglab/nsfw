@@ -51,6 +51,7 @@ img {
 	padding: 0;
 	margin: 0;
 	margin-top: 1em;
+	border-right: 3px solid #bbb;
 	text-align: right;
 	width: 9em;
 }
@@ -77,10 +78,10 @@ img {
 #content {
 	max-width: 840px;
 	padding: 0;
-	margin-left: 9em;
+	margin-left: 10em;
 	padding-left: 5px;
-	border-left: 3px solid #bbb;
 	text-align: justify;
+	margin-top: 2em;
 }
 
 #abstract_box {
