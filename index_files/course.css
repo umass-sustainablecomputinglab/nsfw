@@ -4,9 +4,9 @@ h2           { font-size: 13pt; }
 h3           { font-size: 11pt; }
 hr           { color: silver; height: 3px; }
 body         { background: white; }
-a            { text-decoration: none; color: navy; }
-a:visited    { color: maroon; }
-a:hover      { text-decoration: underline; color: blue; }
+a            { text-decoration: none; color: green; }
+a:visited    { color: green; }
+a:hover      { text-decoration: underline; color: green; }
 .headline    { font-size: 11pt; }
 td.design    { background-color: silver; font-size: 1pt; width: 3px; }
 
@@ -18,17 +18,17 @@ img {
 	position: absolute;
 	left: 0;
 	top: 0;
-	background: no-repeat top left;
+	background: no-repeat top center;
 	margin: 10px;
-	width: 380px; /* picture width */
-	height: 180px; /* picture height */
+	width: 260px; /* picture width */
+	height: 190px; /* picture height */
 }
 #header {
-	margin-left: 340px; /* picture width */
-	min-height: 180px; /* picture height */
+	margin-left: 280px; /* picture width */
+	min-height: 190px; /* picture height */
 	position: relative;
 	border-left: 3px solid #bbb;
-	padding-left: 5px;
+	padding-left: 10px;
 	max-width: 800px;
 }
 
@@ -64,11 +64,11 @@ img {
 }
 #nav a.selected {
 	background: #eee;
-	border-color: #ddd;
+	border-color: green;
 }
 #nav a:hover {
 	text-decoration: none;
-	color: navy;
+	color: green;
 }
 #nav a.good:hover {
 	background: #bbf;
