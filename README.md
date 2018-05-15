@@ -1,2 +1,3 @@
-NSF Workshop on Economics of Cloud Resource Management
+NSF Workshop on Cloud Economics
+
 https://umass-sustainablecomputinglab.github.io/nsfw/
